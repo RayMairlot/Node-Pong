@@ -1,6 +1,8 @@
 #Node Pong!
 
-With the Blender Game engine probably being phased out in the not too distant future an alternative game making experience is needed in Blender. Once again (but really for the first time), I come to the rescue and present an unoriginal yet mind-altering game of agility, wits and literally unending fun, all based in Blender's *Node Editor*.
+With the Blender Game engine probably being phased out in the not too distant future, an alternative game making experience is needed in Blender. Once again (but really for the first time), I come to the rescue and present an unoriginal, yet mind-altering game of agility, wits and literally unending fun, all based in Blender's *Node Editor*...
+
+...*Node Pong*:
 
 ![Node pong demo](nodePongDemo.gif)
 

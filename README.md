@@ -2,11 +2,13 @@
 
 With the Blender Game engine probably being phased out in the not too distant future an alternative game making experience is needed in Blender. Once again (but really for the first time), I come to the rescue and present an unoriginal yet mind-altering game of agility, wits and literally unending fun, all based in Blender's *Node Editor*.
 
+![Node pong demo](nodePongDemo.gif)
+
 ###How to run the game:
     
 1. Go to *File> New* to start from a fresh file (or your compositing nodes will be deleted when the game runs).
 2. Change whatever the main part of the screen is (e.g. the *3D view* if you're using the default layout) to a *Text Editor*.
-3. Paste in the code from the 'nodePong.py' file.
+3. Paste in the code from the '[nodePong.py](nodePong.py)' file.
 4. Press *Run Script* and witness the future of Blender game development.
 
 ###Possible issues:
